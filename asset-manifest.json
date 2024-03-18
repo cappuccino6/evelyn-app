@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/evelyn-app/static/css/main.805002ae.css",
+    "main.js": "/evelyn-app/static/js/main.cb2e633c.js",
+    "static/js/453.65caaa27.chunk.js": "/evelyn-app/static/js/453.65caaa27.chunk.js",
+    "static/media/AlimamaShuHeiTi-Bold.ttf": "/evelyn-app/static/media/AlimamaShuHeiTi-Bold.6a14696d36301747cf51.ttf",
+    "static/media/gaojiao_siji_zhenti.png": "/evelyn-app/static/media/gaojiao_siji_zhenti.16f117be2d6fd2f78d25.png",
+    "static/media/gaojiao_liuji_zhenti.jpg": "/evelyn-app/static/media/gaojiao_liuji_zhenti.e56cc1ee374c414f24f9.jpg",
+    "index.html": "/evelyn-app/index.html",
+    "main.805002ae.css.map": "/evelyn-app/static/css/main.805002ae.css.map",
+    "main.cb2e633c.js.map": "/evelyn-app/static/js/main.cb2e633c.js.map",
+    "453.65caaa27.chunk.js.map": "/evelyn-app/static/js/453.65caaa27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805002ae.css",
+    "static/js/main.cb2e633c.js"
+  ]
+}
